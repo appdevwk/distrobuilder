@@ -1,6 +1,6 @@
 module github.com/lxc/distrobuilder
 
-go 1.22.7
+go 1.26.0
 
 require (
 	github.com/antchfx/htmlquery v1.3.4
@@ -12,7 +12,7 @@ require (
 	github.com/spf13/cobra v1.8.1
 	github.com/stretchr/testify v1.10.0
 	golang.org/x/sys v0.29.0
-	golang.org/x/text v0.21.0
+	golang.org/x/text v0.42.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
@@ -88,7 +88,7 @@ require (
 	golang.org/x/crypto v0.32.0 // indirect
 	golang.org/x/net v0.34.0 // indirect
 	golang.org/x/oauth2 v0.25.0 // indirect
-	golang.org/x/sync v0.10.0 // indirect
+	golang.org/x/sync v0.23.0 // indirect
 	golang.org/x/term v0.28.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250106144421-5f5ef82da422 // indirect
 	google.golang.org/grpc v1.69.2 // indirect
