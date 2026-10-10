@@ -79,7 +79,7 @@ require (
 	github.com/vbatts/go-mtree v0.5.4 // indirect
 	github.com/zitadel/logging v0.6.1 // indirect
 	github.com/zitadel/oidc/v3 v3.34.0 // indirect
-	github.com/zitadel/schema v1.3.0 // indirect
+	github.com/zitadel/schema v1.3.2 // indirect
 	go.opencensus.io v0.24.0 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/otel v1.33.0 // indirect
