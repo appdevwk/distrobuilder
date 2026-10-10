@@ -1,6 +1,6 @@
 module github.com/lxc/distrobuilder
 
-go 1.22.7
+go 1.25
 
 require (
 	github.com/antchfx/htmlquery v1.3.4
@@ -52,7 +52,7 @@ require (
 	github.com/gorilla/websocket v1.5.3 // indirect
 	github.com/heroku/docker-registry-client v0.0.0-20211012143308-9463674c8930 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
-	github.com/klauspost/compress v1.17.11 // indirect
+	github.com/klauspost/compress v1.20.2-0.20261004115517-d189b4c2eb01 // indirect
 	github.com/klauspost/pgzip v1.2.6 // indirect
 	github.com/kr/fs v0.1.0 // indirect
 	github.com/moby/docker-image-spec v1.3.1 // indirect
